@@ -21,6 +21,9 @@
 
 后面会继续补充：
 
+- MCP 相关学习笔记
+- agent 相关学习笔记
+- subagent 相关学习笔记
 - Codex 常用工作流
 - skill 实战案例
 - GitHub / gh 使用记录
